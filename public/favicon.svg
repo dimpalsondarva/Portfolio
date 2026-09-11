@@ -2,5 +2,4 @@
   <rect width="64" height="64" rx="14" fill="#5C4033"/>
   <rect width="64" height="64" rx="14" fill="none" stroke="#EDE0D3" stroke-opacity="0.25"/>
   <text x="32" y="42" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="400" font-style="italic" fill="#FFFDF9" letter-spacing="-1">DS</text>
-  <circle cx="50" cy="14" r="3" fill="#E8C9A5"/>
 </svg>

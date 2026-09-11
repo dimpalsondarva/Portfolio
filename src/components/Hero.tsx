@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="hero container">
       <p className="eyebrow">
-        <span className="dot" /> Available for opportunities • 3rd Semester
+        Available for opportunities • 3rd Semester
       </p>
       <h1>
         {PROFILE.firstName} <em>{PROFILE.lastName}</em>
