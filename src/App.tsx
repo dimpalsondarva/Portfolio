@@ -5,6 +5,7 @@ import About from './components/About';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
+import Faq from './components/Faq';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import { useTheme } from './hooks/useTheme';
@@ -38,6 +39,7 @@ export default function App() {
         <Education />
         <Skills />
         <Projects />
+        <Faq />
         <Contact />
       </main>
       <Footer />

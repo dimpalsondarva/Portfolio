@@ -26,7 +26,7 @@ function iconFor(label: string) {
 export default function Contact() {
   return (
     <section id="contact" className="section container">
-      <SectionHeading num="05" title="Contact" />
+      <SectionHeading num="06" title="Contact" />
       <div className="card contact-card">
         <h3>Let&apos;s connect.</h3>
         <p className="muted">Reach out for collaboration, opportunities, or just to say hi.</p>

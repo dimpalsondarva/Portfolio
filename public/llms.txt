@@ -1,0 +1,35 @@
+# Dimpal Sondarva — Portfolio
+
+> Minimal premium portfolio of Dimpal Sondarva, a 3rd-semester student at
+> Dr. Subhash University (India), learning modern web development.
+
+## Facts
+
+- Name: Dimpal Sondarva
+- Status: 3rd-semester student at Dr. Subhash University (2024 — Present)
+- Location: India
+- Focus: React, TypeScript, Vite, responsive web design, UI basics
+- Tools: VS Code, Git, GitHub, Canva
+- Open to: internships, collaboration, mentorship
+
+## Links
+
+- Portfolio: https://dimpalsondarva.github.io/Portfolio/
+- GitHub: https://github.com/dimpalsondarva
+- LinkedIn: https://www.linkedin.com/in/dimpal-sondarva
+- Instagram: https://www.instagram.com/dimpal__.11
+
+## Frequently asked questions
+
+- Who is Dimpal Sondarva? A 3rd-semester student at Dr. Subhash University
+  in India, learning modern web development with React and TypeScript.
+- What is Dimpal Sondarva currently studying? 3rd semester at
+  Dr. Subhash University: computer studies, React, TypeScript, UI design.
+- What skills does Dimpal Sondarva have? HTML, CSS, JavaScript, React,
+  TypeScript, Vite, Git, GitHub, VS Code.
+- Is Dimpal Sondarva open to opportunities? Yes — internships,
+  collaboration and mentorship via GitHub, LinkedIn or Instagram.
+- Where can I find Dimpal Sondarva online? GitHub
+  (github.com/dimpalsondarva), LinkedIn
+  (linkedin.com/in/dimpal-sondarva), Instagram
+  (instagram.com/dimpal__.11).
