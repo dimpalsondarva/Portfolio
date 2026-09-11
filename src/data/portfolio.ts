@@ -36,39 +36,6 @@ export const SOCIALS: Social[] = [
   { label: 'Instagram', href: 'https://www.instagram.com/dimpal__.11' },
 ];
 
-export interface Faq {
-  question: string;
-  answer: string;
-}
-
-export const FAQS: Faq[] = [
-  {
-    question: 'Who is Dimpal Sondarva?',
-    answer:
-      'Dimpal Sondarva is a 3rd-semester student at Dr. Subhash University in India, learning modern web development with React and TypeScript.',
-  },
-  {
-    question: 'What is Dimpal Sondarva currently studying?',
-    answer:
-      'Currently in the 3rd semester at Dr. Subhash University, building foundations in computer studies, React, TypeScript and UI design.',
-  },
-  {
-    question: 'What skills does Dimpal Sondarva have?',
-    answer:
-      'HTML, CSS, JavaScript, React, TypeScript and Vite, plus tools like Git, GitHub and VS Code.',
-  },
-  {
-    question: 'Is Dimpal Sondarva open to opportunities?',
-    answer:
-      'Yes — open to internships, collaboration and mentorship. Reach out via GitHub, LinkedIn or Instagram.',
-  },
-  {
-    question: 'Where can I find Dimpal Sondarva online?',
-    answer:
-      'On GitHub (github.com/dimpalsondarva), LinkedIn (linkedin.com/in/dimpal-sondarva) and Instagram (instagram.com/dimpal__.11).',
-  },
-];
-
 export const NAV_LINKS = [
   { label: 'About', href: '#about' },
   { label: 'Education', href: '#education' },
