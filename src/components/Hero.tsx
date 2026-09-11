@@ -1,8 +1,11 @@
 import { PROFILE } from '../data/portfolio';
+import HeroWaves from './HeroWaves';
 
 export default function Hero() {
   return (
-    <section className="hero container">
+    <section className="hero container relative overflow-hidden">
+      <HeroWaves />
+      <div className="relative z-10">
       <p className="eyebrow">
         Available for opportunities • 3rd Semester
       </p>
@@ -33,6 +36,7 @@ export default function Hero() {
           <strong>Location</strong>
           <span>{PROFILE.location}</span>
         </div>
+      </div>
       </div>
     </section>
   );
