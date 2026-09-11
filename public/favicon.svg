@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#5C4033"/>
   <rect width="64" height="64" rx="14" fill="none" stroke="#EDE0D3" stroke-opacity="0.25"/>
-  <text x="32" y="42" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="30" font-weight="400" font-style="italic" fill="#FFFDF9" letter-spacing="-1">DS</text>
+  <text x="32" y="42" text-anchor="middle" font-family="Bricolage Grotesque, Inter, sans-serif" font-size="28" font-weight="700" fill="#FFFDF9" letter-spacing="-1">DS</text>
 </svg>
