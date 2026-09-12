@@ -7,11 +7,8 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import { useTheme } from './hooks/useTheme';
 
 export default function App() {
-  const { theme, toggle } = useTheme();
-
   // Smooth in-page navigation without putting # hashes in the URL.
   useEffect(() => {
     const onClick = (e: MouseEvent) => {
@@ -31,7 +28,7 @@ export default function App() {
 
   return (
     <>
-      <Navbar theme={theme} onToggleTheme={toggle} />
+      <Navbar />
       <main id="top">
         <Hero />
         <About />

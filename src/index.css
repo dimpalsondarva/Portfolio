@@ -1,23 +1,6 @@
 @import "tailwindcss";
 
 :root {
-  --bg: #fffefb;
-  --card: #ffffff;
-  --ink: #3b2a20;
-  --muted: #8c7b6e;
-  --line: #ede0d3;
-  --accent: #6f4e37;
-  --accent-soft: #f5ede3;
-  --btn-bg: #5c4033;
-  --btn-text: #fffdf9;
-  --nav-bg: rgba(255, 254, 251, 0.85);
-  --shadow: 0 1px 0 #5c403310;
-  --radius: 20px;
-  --font-sans: 'Inter', -apple-system, system-ui, sans-serif;
-  --font-serif: 'Bricolage Grotesque', 'Inter', system-ui, sans-serif;
-}
-
-[data-theme='dark'] {
   --bg: #17110d;
   --card: #221913;
   --ink: #fff7ed;
@@ -29,6 +12,9 @@
   --btn-text: #221913;
   --nav-bg: rgba(23, 17, 13, 0.82);
   --shadow: 0 1px 0 #ffffff08;
+  --radius: 20px;
+  --font-sans: 'Inter', -apple-system, system-ui, sans-serif;
+  --font-serif: 'Bricolage Grotesque', 'Inter', system-ui, sans-serif;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -153,13 +139,6 @@ footer { border-top: 1px solid var(--line); margin-top: 40px; }
 
 /* NAV ACTIONS */
 .nav-actions { display: flex; align-items: center; gap: 8px; }
-.theme-toggle {
-  display: inline-flex; align-items: center; justify-content: center;
-  width: 38px; height: 38px; border-radius: 100px;
-  border: 1px solid var(--line); background: var(--card); color: var(--ink);
-  cursor: pointer; transition: 0.25s;
-}
-.theme-toggle:hover { border-color: var(--accent); transform: translateY(-1px); }
 
 /* RESPONSIVE — fluid on every screen size (grids auto-fit, no fixed columns) */
 @media (max-width: 640px) {
